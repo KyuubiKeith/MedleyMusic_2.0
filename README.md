@@ -1,2 +1,2 @@
 # MedleyMusic_2.0
-rework
+Renovation, rather Initialisation of the first online iteration of the website.
